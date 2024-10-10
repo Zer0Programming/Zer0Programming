@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Zer0Programming
+- 👀 I’m interested in math, game, manga and anime.
+- 🌱 I’m currently learning how to use this program LOL
+- This is my first readme hiii  =)
